@@ -1,6 +1,6 @@
 <h2>Hey, I'm Mateusz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px"></h2>
 
-👨🏻‍🎓 2nd year CS student at [University of Opole][wmfii]<br>
+👨🏻‍🎓 3rd year CS student at [University of Opole][wmfii]<br>
 🏢 Junior Front-end Developer at [itDesk][it]<br>
 <br>
 <h2>What I'm working on:</h2>
