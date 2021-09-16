@@ -6,7 +6,7 @@
 <h2>What I'm working on:</h2>
 
 🌱 Currently learning [Vue.js][vue]<br>
-🧑🏻‍💻 Currently helping to develop [Callback24.pl][c24]<br>
+🧑🏻‍💻 Currently helping to develop: [callback24.pl][c24] and [informatyk360.pl][inf360]<br>
 <br>
 <h2>You can find me on:</h2>
 
@@ -18,6 +18,7 @@
 [it]: https://itdesk.eu/en/
 [vue]: https://vuejs.org
 [c24]: https://callback24.pl
+[inf360]: https://informatyk360.pl/
 [linked]: https://www.linkedin.com/in/bronismateusz/
 [fb]: https://www.facebook.com/bronisMateusz/
 [ig]: http://instagram.com/bronismateusz/
