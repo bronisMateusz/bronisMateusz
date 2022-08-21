@@ -1,7 +1,7 @@
 <h2>Hey, I'm Mateusz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px"></h2>
 
 👨🏻‍🎓 4rd year CS student at [University of Opole][wmfii-website]<br>
-🏢 Junior Front-end Developer at [smartbees][smartbees-website]<br>
+🐝 Junior Front-end Developer at [smartbees][smartbees-website]<br>
 <br>
 <h2>What I'm working on:</h2>
 
