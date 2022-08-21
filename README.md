@@ -26,6 +26,6 @@
 [viamedica-website]: https://www.viamedica.pl/
 
 [linkedin-website]: https://www.linkedin.com/in/bronismateusz/
-[behance-website]: https://www.behance.net/bronisMateusz
+[behance-website]: https://www.behance.net/bronisMateusz/
 [facebook-website]: https://www.facebook.com/bronisMateusz/
 [instagram-website]: http://instagram.com/bronismateusz/
